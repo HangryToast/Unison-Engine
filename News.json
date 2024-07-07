@@ -1,22 +1,28 @@
 {
-  "Date": "7/4",
+  "Date": "7/4",  
   "Version": "0.95",
   "Tittle": "Unison Engine",
   "Description": "Unison Engine",
   "Summary": "Unison Engine YAY!",
   "Image": "",
-  "CostumeCodes": [     
+  "CostumeCodes": [        
     {
-        "code": "TBD",
-        "values": [true, "Pico", 1, 1, true]
+      "code": "Pico",
+      "active": true,      
+      "name": "Pico",
+      "ammount": "1",
     },
     {
-        "code": "TBD2",
-        "values": [true, "Pico", 1, 1, true]
+      "code": "TBD",
+      "active": true,      
+      "name": "Tankman",
+      "ammount": "1",
     },
     {
-        "code": "TBD3",
-        "values": [true, "Pico", 1, 1, true]
+      "code": "Mos",
+      "active": false,      
+      "name": "Monster",
+      "ammount": "1",
     }
   ]
 }
