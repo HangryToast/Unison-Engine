@@ -7,15 +7,15 @@
   "Image": "",
   "CostumeCodes": [     
     {
-        "Code": "TBD",
+        "code": "TBD",
         "values": [true, "Pico", 1, 1, true]
     },
     {
-        "Code": "TBD2",
+        "code": "TBD2",
         "values": [true, "Pico", 1, 1, true]
     },
     {
-        "Code": "TBD3",
+        "code": "TBD3",
         "values": [true, "Pico", 1, 1, true]
     }
   ]
