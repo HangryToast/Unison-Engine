@@ -5,7 +5,9 @@
   "Description": "Unison Engine",
   "Summary": "Unison Engine YAY!",
   "Image": "",
-  "Codes": "Active",
-  "Item": "Costume",
-  "ItemValue": "Beta"
+  "Costume Codes": [
+    "Unison Yay" [true, "Pico", 1, true], 
+    "Unison 2" [true, "Tankman", 1, true], 
+    "Unison 3" [false, "Monster", 1, true]
+  ]
 }
