@@ -5,9 +5,18 @@
   "Description": "Unison Engine",
   "Summary": "Unison Engine YAY!",
   "Image": "",
-  "CostumeCodes": {
-    "Unison Yay": ["true", "Pico", "1", "1", "true"], 
-    "Unison 2": ["true", "Tankman", "1", "1", "true"], 
-    "Unison 3": ["true", "Monster", "1", "1", "true"], 
-  }
+  "CostumeCodes": [     
+    {
+        "Code": "TBD",
+        "values": [true, "Pico", 1, 1, true]
+    },
+    {
+        "Code": "TBD2",
+        "values": [true, "Pico", 1, 1, true]
+    },
+    {
+        "Code": "TBD3",
+        "values": [true, "Pico", 1, 1, true]
+    },
+  ]
 }
