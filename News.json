@@ -6,8 +6,8 @@
   "Summary": "Unison Engine YAY!",
   "Image": "",
   "CostumeCodes": {
-    "Unison Yay": [true, "Pico", 1, 1, true], 
-    "Unison 2": [true, "Tankman", 1, 1, true], 
-    "Unison 3": [false, "Monster", 1, 1, true]
+    "Unison Yay": ["true", "Pico", "1", "1", "true"], 
+    "Unison 2": ["true", "Tankman", "1", "1", "true"], 
+    "Unison 3": ["true", "Monster", "1", "1", "true"], 
   }
 }
