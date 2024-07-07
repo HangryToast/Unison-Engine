@@ -10,19 +10,19 @@
       "code": "Pico",
       "active": true,      
       "name": "Pico",
-      "ammount": "1",
+      "amount": "1",
     },
     {
       "code": "TBD",
       "active": true,      
       "name": "Tankman",
-      "ammount": "1",
+      "amount": "1",
     },
     {
       "code": "Mos",
       "active": false,      
       "name": "Monster",
-      "ammount": "1",
+      "amount": "1",
     }
   ]
 }
