@@ -8,20 +8,26 @@
   "CostumeCodes": [        
     {
       "code": "Pico",
-      "active": true,      
+      "active": false,      
       "name": "Pico",
       "amount": "1"
     },
     {
-      "code": "TBD",
+      "code": "Funkin2002",
       "active": true,      
-      "name": "Tankman",
+      "name": "Beta Boyfriend",
       "amount": "1"
     },
     {
-      "code": "Mos",
+      "code": "Moss",
       "active": false,      
       "name": "Monster",
+      "amount": "1"
+    },
+    {
+      "code": "Joke",
+      "active": true,      
+      "name": "Tankman",
       "amount": "1"
     }
   ]
