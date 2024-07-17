@@ -1,9 +1,9 @@
 {
-  "Date": "7/8",  
-  "Version": "0.95",
+  "Date": "7/17",  
+  "Version": "0.96",
   "Tittle": "Unison Engine Beta",
-  "Description": "Unison Engine Beta now in Early access. Join the Discord for News",
-  "Summary": "Unison Engine YAY!\nFunkin!",
+  "Description": "Now in Early access! Join the Discord for News and rewards :)",
+  "Summary": "Unison Engine\nYAY!\nFunkin!",
   "Image": "",
   "CostumeCodes": [        
     {
@@ -28,6 +28,12 @@
       "code": "Joke",
       "active": true,      
       "name": "Tankman",
+      "amount": "1"
+    },
+    {
+      "code": "Im new here hi",
+      "active": true,      
+      "name": "Gru",
       "amount": "1"
     }
   ]
