@@ -25,15 +25,21 @@
       "amount": "1"
     },
     {
-      "code": "Joke",
+      "code": "Ugh",
       "active": true,      
       "name": "Tankman",
       "amount": "1"
     },
     {
-      "code": "Im new here hi",
+      "code": "We will steal the moon!",
       "active": true,      
       "name": "Gru",
+      "amount": "1"
+    },
+    {
+      "code": "Who put this here?",
+      "active": true,      
+      "name": "Lucky Boy",
       "amount": "1"
     }
   ]
