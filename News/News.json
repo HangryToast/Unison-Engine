@@ -1,10 +1,10 @@
 {
-  "Date": "7/17",  
+  "Date": "8/5",  
   "Version": "0.9.9",
-  "Tittle": "Unison Engine Beta",
+  "Tittle": "Uhhhhhhh",
   "Description": "Now in Early access! Join the Discord for News and rewards :)",
-  "Summary": "Unison Engine\nYAY!\nFunkin!",
-  "Image": "https://raw.githubusercontent.com/HangryToast/Unison-Engine/main/News/BaseBanner.png",
+  "Summary": "Unison Engine\nYAY!\nFunkin since 2024!",
+  "Image": "https://raw.githubusercontent.com/HangryToast/Unison-Engine/main/News/CoolBanner.png",
   "CostumeCodes": [        
     {
       "code": "Pico",
@@ -14,7 +14,7 @@
     },
     {
       "code": "Funkin2002",
-      "active": true,      
+      "active": false,      
       "name": "Beta Boyfriend",
       "amount": "1"
     },
@@ -26,7 +26,7 @@
     },
     {
       "code": "Ugh",
-      "active": true,      
+      "active": false,      
       "name": "Tankman",
       "amount": "1"
     },
