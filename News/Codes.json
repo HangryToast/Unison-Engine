@@ -1,0 +1,46 @@
+{
+  "event": {
+    "event": "Summer",
+    "lock": false,
+    "description": "TBD",
+    "eventImage": "https://raw.githubusercontent.com/HangryToast/Unison-Engine/main/News/CoolBanner.png",
+    "eventCodes": [
+      {
+        "code": "Funkin2002",
+        "active": false,
+        "type": "Costume",
+        "item": "Beta Boyfriend",
+        "amount": "1"
+      },
+      {
+        "code": "StealTheMoon",
+        "active": true,
+        "type": "Costume",
+        "item": "Gru",
+        "amount": "1"
+      },
+      {
+        "code": "Who put this here?",
+        "active": true,
+        "type": "Costume",
+        "item": "Lucky Boy",
+        "amount": "1"
+      }
+    ]
+  },
+  "event": {
+     "event": "General",
+     "lock": false,
+     "description": "TBD",
+     "eventImage": "https://raw.githubusercontent.com/HangryToast/Unison-Engine/main/News/CoolBanner.png",
+     "generalCodes": [
+      {
+        "code": "COINS",
+        "active": true,
+        "type": "Wallet",
+        "item": "Coins",
+        "amount": "100"
+      }
+    ]
+  }
+}
