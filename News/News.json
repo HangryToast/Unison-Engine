@@ -31,6 +31,12 @@
       "amount": "1"
     },
     {
+      "code": "2D",
+      "active": true,      
+      "name": "Bill",
+      "amount": "1"
+    },
+    {
       "code": "We will steal the moon!",
       "active": true,      
       "name": "Gru",
