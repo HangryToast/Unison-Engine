@@ -7,14 +7,14 @@
   "Image": "https://raw.githubusercontent.com/HangryToast/Unison-Engine/main/News/CoolBanner.png",
   "CostumeCodes": [        
     {
-      "code": "Pico",
-      "active": false,      
+      "code": "Picooo",
+      "active": true,      
       "name": "Pico",
       "amount": "1"
     },
     {
       "code": "Funkin2002",
-      "active": false,      
+      "active": true,      
       "name": "Beta Boyfriend",
       "amount": "1"
     },
@@ -31,14 +31,8 @@
       "amount": "1"
     },
     {
-      "code": "Bill",
-      "active": true,      
-      "name": "Bill Cipher",
-      "amount": "1"
-    },
-    {
       "code": "We will steal the moon!",
-      "active": true,      
+      "active": false,      
       "name": "Gru",
       "amount": "1"
     },
